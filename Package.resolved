@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "mmgenericframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/venkataMM/MMGenericFramework.git",
+      "state" : {
+        "revision" : "532a12cb5b6b90a90de907b9904645b4ae346e50",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "netkit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaltura/netkit-ios.git",
+      "state" : {
+        "revision" : "52b00fb1080d3b338749004125237b8f07d04063",
+        "version" : "1.6.1"
+      }
+    },
+    {
+      "identity" : "playkit-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaltura/playkit-ios.git",
+      "state" : {
+        "revision" : "c4efcd45df5a25a9537b63832df0c5b01fda3802",
+        "version" : "3.28.0"
+      }
+    },
+    {
+      "identity" : "playkit-ios-utils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kaltura/playkit-ios-utils.git",
+      "state" : {
+        "revision" : "289c745e46387ae6c7934e9d75aeb17249f52156",
+        "version" : "0.5.1"
+      }
+    },
+    {
+      "identity" : "swiftyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyJSON/SwiftyJSON.git",
+      "state" : {
+        "revision" : "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+        "version" : "5.0.1"
+      }
+    },
+    {
+      "identity" : "xcglogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DaveWoodCom/XCGLogger.git",
+      "state" : {
+        "revision" : "a9c4667b247928a29bdd41be2ec2c8d304215a54",
+        "version" : "7.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
